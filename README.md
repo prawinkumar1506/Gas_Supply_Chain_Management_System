@@ -87,8 +87,3 @@ This system automates the gas distribution process, allowing customers to place 
 ## ⭐ License
 
 This project is open source and free to use for academic or demo purposes.
-```
-
----
-
-Once you've uploaded your screenshots into a `/screenshots` folder, I can help you link them properly if needed. Want help setting up the folder and adding images?
